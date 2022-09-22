@@ -10,7 +10,6 @@ Prototype 1 - Car/[Bb]uilds/
 Prototype 1 - Car/[Ll]ogs/
 Prototype 1 - Car/[Uu]ser[Ss]ettings/
 
-
 Challenge 1 - Plane
 Challenge 1 - Plane/[Ll]ibrary/
 Challenge 1 - Plane/[Tt]emp/
@@ -20,6 +19,45 @@ Challenge 1 - Plane/[Bb]uilds/
 Challenge 1 - Plane/[Ll]ogs/
 Challenge 1 - Plane/[Uu]ser[Ss]ettings/
 
+Prototype 2 - Animal Feeder/[Ll]ibrary/
+Prototype 2 - Animal Feeder/[Tt]emp/
+Prototype 2 - Animal Feeder/[Oo]bj/
+Prototype 2 - Animal Feeder/[Bb]uild/
+Prototype 2 - Animal Feeder/[Bb]uilds/
+Prototype 2 - Animal Feeder/[Ll]ogs/
+Prototype 2 - Animal Feeder/[Uu]ser[Ss]ettings/
+
+Challenge 2 - Fetch/[Ll]ibrary/
+Challenge 2 - Fetch/[Tt]emp/
+Challenge 2 - Fetch/[Oo]bj/
+Challenge 2 - Fetch/[Bb]uild/
+Challenge 2 - Fetch/[Bb]uilds/
+Challenge 2 - Fetch/[Ll]ogs/
+Challenge 2 - Fetch/[Uu]ser[Ss]ettings/
+
+Prototype 3 - Runny Jump Man/[Ll]ibrary/
+Prototype 3 - Runny Jump Man/[Tt]emp/
+Prototype 3 - Runny Jump Man/[Oo]bj/
+Prototype 3 - Runny Jump Man/[Bb]uild/
+Prototype 3 - Runny Jump Man/[Bb]uilds/
+Prototype 3 - Runny Jump Man/[Ll]ogs/
+Prototype 3 - Runny Jump Man/[Uu]ser[Ss]ettings/
+
+Challenge 3 - Flappy Balloon/[Ll]ibrary/
+Challenge 3 - Flappy Balloon/[Tt]emp/
+Challenge 3 - Flappy Balloon/[Oo]bj/
+Challenge 3 - Flappy Balloon/[Bb]uild/
+Challenge 3 - Flappy Balloon/[Bb]uilds/
+Challenge 3 - Flappy Balloon/[Ll]ogs/
+Challenge 3 - Flappy Balloon/[Uu]ser[Ss]ettings/
+
+Prototype 4 - Rolly Ball/[Ll]ibrary/
+Prototype 4 - Rolly Ball/[Tt]emp/
+Prototype 4 - Rolly Ball/[Oo]bj/
+Prototype 4 - Rolly Ball/[Bb]uild/
+Prototype 4 - Rolly Ball/[Bb]uilds/
+Prototype 4 - Rolly Ball/[Ll]ogs/
+Prototype 4 - Rolly Ball/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
